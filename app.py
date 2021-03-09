@@ -7,5 +7,5 @@ def generate_integers(start: int, stop: int, step: int) -> List[int]:
 
 
 # This is for checking that code coverage will be <100%.
-# def generate_something() -> bool:
-#     return True
+def generate_something() -> bool:
+    return True
