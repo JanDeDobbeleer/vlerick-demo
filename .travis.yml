@@ -1,9 +1,0 @@
-language: python
-matrix:
-  include:
-  - os: linux
-    dist: trusty
-install:
-- make dependencies
-script:
-- make ci
