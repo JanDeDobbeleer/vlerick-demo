@@ -1,5 +1,5 @@
 pytest==5.3.5
-numpy==1.18.1
+numpy==1.22.0
 flake8==3.7.9
 mypy==0.770
 pytest-cov==2.8.1
